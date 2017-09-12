@@ -1,0 +1,9 @@
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\bin\Debug\metric to imperial.exe.config
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\bin\Debug\metric to imperial.exe
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\bin\Debug\metric to imperial.pdb
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric to imperial.csprojResolveAssemblyReference.cache
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric_to_imperial.Form1.resources
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric_to_imperial.Properties.Resources.resources
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric to imperial.csproj.GenerateResource.Cache
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric to imperial.exe
+c:\users\dereck\documents\visual studio 2017\Projects\metric to imperial\metric to imperial\obj\Debug\metric to imperial.pdb
